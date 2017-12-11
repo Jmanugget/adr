@@ -15,7 +15,7 @@ var Outside = {
 			name: _('gatherer'),
 			delay: 1,
 			stores: {
-				'wood': 1
+				'wood': 10
 			}
 		},
 		'hunter': {
